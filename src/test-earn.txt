@@ -1,0 +1,23 @@
+Testing Earn NCTR feature:
+
+To access the Earn NCTR page:
+1. Sign in or create an account (use any email/password)
+2. Once on the Dashboard, look for the "Earn NCTR" button in two places:
+   - In the NCTR Balance card at the top (blue "Earn More" button)
+   - In the Quick Actions section on the right sidebar
+3. Click either button to navigate to the Earn NCTR page
+
+The Earn NCTR page includes:
+- Category filters (All, Daily Tasks, Social, Referrals, Challenges, Partners)
+- Earn opportunity cards showing:
+  - Task name and description
+  - NCTR reward amount
+  - "Claim" or "Start" buttons
+  - Completion tracking
+
+Style improvements applied:
+- Neutral color scheme (black buttons, neutral backgrounds)
+- Pill-shaped filter buttons
+- Cleaner card designs with better spacing
+- Simplified typography
+- Subtle hover effects
